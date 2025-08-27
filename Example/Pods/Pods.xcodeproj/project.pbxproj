@@ -71,24 +71,25 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3AC1B12C2E5F6C8C003C5FEE /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		3A2CB4802E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				VolmedTextStylesUI.swift,
+				Styles/VolmedTextStylesUI.swift,
 			);
 			target = 4B15393771DD9C9601E36483E00FC136 /* Pods-VollmedUI_Example */;
 		};
-		3AC1B12D2E5F6C8C003C5FEE /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		3A2CB4812E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				VolmedTextStylesUI.swift,
+				Styles/VolmedTextStylesUI.swift,
 			);
 			target = BDC6AE51F0D7752532A49ECA13B39477 /* VollmedUI */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3AC1B1282E5F6C69003C5FEE /* Styles */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (3AC1B12C2E5F6C8C003C5FEE /* PBXFileSystemSynchronizedBuildFileExceptionSet */, 3AC1B12D2E5F6C8C003C5FEE /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Styles; sourceTree = "<group>"; };
+		3A2CB47B2E5F912600B16E91 /* Classes */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (3A2CB4802E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, 3A2CB4812E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Classes; sourceTree = "<group>"; };
+		3A2CB4842E5F915100B16E91 /* Assets */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Assets; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,7 +177,8 @@
 		5E2011036E880495F5D52FAE5ECCBE81 /* VollmedUI */ = {
 			isa = PBXGroup;
 			children = (
-				3AC1B1282E5F6C69003C5FEE /* Styles */,
+				3A2CB4842E5F915100B16E91 /* Assets */,
+				3A2CB47B2E5F912600B16E91 /* Classes */,
 				04841D259AEE1E60B35737CE51F2D802 /* Pod */,
 				FA667C8EE404414FCB1F2438FB6E6F8E /* Support Files */,
 			);
