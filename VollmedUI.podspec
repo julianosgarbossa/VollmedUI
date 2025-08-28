@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VollmedUI'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Módulo de design system VollmedUI'
   s.description      = <<-DESC
   Tokens de estilo (cores, tipografia, espaçamentos) e componentes reutilizáveis
