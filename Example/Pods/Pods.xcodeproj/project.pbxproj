@@ -74,6 +74,8 @@
 		3A2CB4802E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				Components/VollmedSnackBarView.swift,
+				Components/VollmedTooltipView.swift,
 				Styles/VollmedButtonStylesUI.swift,
 				Styles/VolmedTextStylesUI.swift,
 			);
@@ -82,6 +84,8 @@
 		3A2CB4812E5F912C00B16E91 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				Components/VollmedSnackBarView.swift,
+				Components/VollmedTooltipView.swift,
 				Styles/VollmedButtonStylesUI.swift,
 				Styles/VolmedTextStylesUI.swift,
 			);
